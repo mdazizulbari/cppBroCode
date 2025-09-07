@@ -17,6 +17,10 @@ int main(){
     // using namespace first;
     // you can add this line so that you can use that namespace as default in this brackets
 
+    // using std::cout;
+    // using std::string;
+    // it can also be used like this to lessen repeating
+
     int x = 0;
 
     std::cout << x << "\n";
