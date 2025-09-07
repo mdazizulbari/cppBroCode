@@ -17,6 +17,11 @@ int main(){
     char initial = 'BC';
     char currency = '$';
 
+    // boolean (true or false)
+    bool student = true;
+    bool teacher = false;
+    bool power = false;
+
 
     std::cout << days << "\n";
     std::cout << price << "\n";
@@ -24,6 +29,9 @@ int main(){
     
     std::cout << initial << "\n";
     std::cout << currency << "\n";
+
+    std::cout << power << "\n";
+    std::cout << student << "\n";
 
     return 0;
 }
