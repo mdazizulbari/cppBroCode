@@ -26,6 +26,8 @@ int main(){
     std::string name = "Bro";
     std::string day = "Friday";
     std::string address = "123 Fake St.";
+    std::cout << "Hello " << name << "\n";
+    std::cout << "You are " << age << "\n";
 
 
     std::cout << days << "\n";
