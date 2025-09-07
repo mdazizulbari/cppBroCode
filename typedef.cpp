@@ -2,7 +2,9 @@
 #include <vector>
 
 // typedef std::vector<std::pair<std::string, int>> pairlist_t;
-typedef std::string text_t;
+// typedef std::string text_t;
+// or
+using text_t = std::string;
 
 int main(){
     // typedef = reserved keyword used to create an additional name
