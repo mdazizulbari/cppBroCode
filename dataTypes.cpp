@@ -22,6 +22,10 @@ int main(){
     bool teacher = false;
     bool power = false;
 
+    // string (objects that represents a sequence of text)
+    std::string name = "Bro";
+    std::string day = "Friday";
+
 
     std::cout << days << "\n";
     std::cout << price << "\n";
@@ -32,6 +36,9 @@ int main(){
 
     std::cout << power << "\n";
     std::cout << student << "\n";
+
+    std::cout << name << "\n";
+    std::cout << day << "\n";
 
     return 0;
 }
