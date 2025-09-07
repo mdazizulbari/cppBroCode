@@ -25,6 +25,7 @@ int main(){
     // string (objects that represents a sequence of text)
     std::string name = "Bro";
     std::string day = "Friday";
+    std::string address = "123 Fake St.";
 
 
     std::cout << days << "\n";
@@ -39,6 +40,7 @@ int main(){
 
     std::cout << name << "\n";
     std::cout << day << "\n";
+    std::cout << address << "\n";
 
     return 0;
 }
