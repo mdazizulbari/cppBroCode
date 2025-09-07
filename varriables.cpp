@@ -7,7 +7,7 @@ int main(){
 
     // or
     int y = 6;
-    
+
     int sum = x + y;
 
     std::cout << x << "\n";
